@@ -70,6 +70,7 @@ Python 3.9.1
 * matplotlib
 * pandas
 * numpy
-<br />
+
+## Team
 
 I wrote this project in a team with the awesome [@dfinnis](https://github.com/dfinnis).
