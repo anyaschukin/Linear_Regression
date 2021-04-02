@@ -6,16 +6,13 @@ Predict the price of a car from its milage, using gradient descent coded from sc
 
 ## Getting Started
 
-First clone this repo.
-
+First clone this repo. <br>
 ```git clone https://github.com/anyashuka/Linear_Regression.git; cd Linear_Regression```
 
-Download dependencies.
-
+Download dependencies. <br>
 ```pip install -r requirements.txt```
 
-Then run run.sh to train a model and predict the price of a car.
-
+Then run run.sh to train a model and predict the price of a car. <br>
 ```./run.sh```
 
 <img src="https://github.com/anyashuka/Linear_Regression/blob/master/img/run.png" width="500">
